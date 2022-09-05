@@ -3967,7 +3967,7 @@ ul.progress-info { display: flex; justify-content: space-between; }
 
 .cpn-text { font-weight: 300; font-size: 1.1rem; line-height: 1.8; margin-bottom: 25px; color: #28384c; }
 
-.tc-light .cpn-text { color: #c4afff; }
+.tc-light .cpn-text { color: white; font-weight: bold; }
 
 .cpn-text p { color: inherit !important; font-size: inherit !important; }
 
