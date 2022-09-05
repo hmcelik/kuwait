@@ -130,3 +130,9 @@ strong, b{
         padding: 30px 20px 30px;
     }
 }
+@media (max-width: 992px){
+    .pc{display: none;}
+}
+@media(min-width: 993px){
+    .mobile{display: none;}
+}
