@@ -139,11 +139,12 @@ strong, b{
 .cardcontainer{display: grid; grid-template-columns: repeat(6,10rem); width: 80%; margin-left: 10%;
 column-gap: px; justify-content: space-around;}
 .card{
-border: 2px solid gold;
+border: 2px solid rgb(216, 185, 11);
 height: 15rem;
+background-color: #0d0e2d;
 }
 .card p{text-align: center;}
-.card h1{text-align: center; font-weight: bold; font-size: 1.3rem;}
+.card h1{text-align: center; font-weight: bold; font-size: 1.3rem; color: white;}
 @media (max-width: 992px){
     .cardcontainer{grid-template-columns: repeat(1,15rem); row-gap: 50px;}
     .card{height: 13rem;}
